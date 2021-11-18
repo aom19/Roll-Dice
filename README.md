@@ -1,5 +1,7 @@
 # Roll-Dice
-Built with `React `
+
+### One of my first applications created with React Js , very simlpe , but I learnt a lot due to this project.
+### Trust the process.
 
 
 ## Getting Started
@@ -15,6 +17,7 @@ npm start
 ```
 
 ## Screen Shots
+<img width="841" alt="Screen Shot 2021-11-18 at 5 06 00 PM" src="https://user-images.githubusercontent.com/39848284/142441114-19732d7c-64f8-4de9-b8ca-5dfdad9aa700.png">
 
 
 
